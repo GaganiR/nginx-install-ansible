@@ -94,3 +94,11 @@ If you want to debug the playbook and check for errors, run
 ```
 ansible-playbook -vvv -i inventory playbook1.yml
 ```
+## Skills Demonstrated
+* Writing Ansible playbooks
+
+* Managing package installations using Ansible modules
+
+* Controlling remote servers with Ansible inventory
+
+* Automating service management (start/stop/restart)
